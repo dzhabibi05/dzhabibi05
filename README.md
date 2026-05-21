@@ -5,7 +5,7 @@
 ## Hello World! I'm Dzikru Habibi 👋<br><br>![Dzikru Habibi](img/github-banner.png)<br><br>
 ##### Skills<br>[![My Skills](https://skillicons.dev/icons?i=cpp,python,html,css,js,php,laravel&theme=light&perline=3)](https://skillicons.dev)<br><br>
 
-##### Connect With Me<br>[![https://instagram.com/dz_habibi05](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/dzhabibi_05)<br>[![https://www.linkedin.com/in/dzikruhabibi/](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/dzikruhabibi)
+##### Connect With Me<br>[![https://instagram.com/dz_habibi05](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/dz_habibi05)<br>[![https://www.linkedin.com/in/dzikruhabibi/](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/dzikruhabibi)
 
 
 ##### 💻 Tech Stack:
