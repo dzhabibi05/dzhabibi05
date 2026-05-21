@@ -16,6 +16,20 @@
 ![](https://streak-stats.demolab.com/?user=dzhabibi05&theme=blue-green&hide_border=false)<br/>
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=dzhabibi05&theme=blue-green&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
+
+##### Play With Me
+<img src="https://raw.githubusercontent.com/dzhabibi05/dzhabibi05/snake-output/snake.svg" alt="Snake animation" />
+
+###
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/dzhabibi05/dzhabibi05/pacman-output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/dzhabibi05/dzhabibi05/pacman-output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/dzhabibi05/dzhabibi05/pacman-output/pacman-contribution-graph.svg">
+</picture>
+
+###
+
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 <!-- ##### Skills
